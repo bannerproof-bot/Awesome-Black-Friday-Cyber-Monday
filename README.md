@@ -592,6 +592,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📧 | [YAMM (Yet Another Mail Merge)](https://yamm.com/pricing)) | Send bulk personalized emails inside Google Sheets, and track if recipients open, click, respond, bounce or unsubscribe in real time directly from your spreadsheet. | **50% OFF the first year** — applies to all plans (from 1 to 100 users) with code **BLACKFRIDAY50**. Valid Nov 24 – Dec 30. |
 | 📝 | [Quotion - Apple Notes to blogs in minutes](https://quotion.co) | Publish your notes to a Quotion subdomain or your domain automatically, with fast page loads, SEO ready, built-in analytics, and looks great. No design or coding skills required. | 30% OFF for 12 months with code **BLACKFRIDAY2025** |
 | 🔥 | [Appfigures](https://appfigures.com?utm_source=tonybf) | ASO, Apple Ads Optimization, and App Intelligence tools to help you get more downloads. | 50% OFF monthly and yearly plans **BF2550** |
+| 🍪 | [Bannerproof](https://bannerproof.app/deals?src=gh) | Checks whether your cookie banner really blocks trackers: loads your site like a first-time EU visitor, records Google Analytics, Meta Pixel, TikTok & co. firing before consent or after "Reject all", and gives you the fix. Ongoing monitoring for 1–25 sites. | **Free audit** with code **BFGHAUDIT** + **50% OFF** the first 3 months with code **BFGH50** (until 31 Dec) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
